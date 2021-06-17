@@ -1,1 +1,1 @@
-# component-example
+# Web component examples
